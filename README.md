@@ -1,4 +1,4 @@
-# JOVAC_ASSIGNMENT_LINEAR_LOGISTIC_REGRSSION
+# JOVAC_ASSIGNMENT_LINEAR_LOGISTIC_REGRESSION
 
 # Part-I: Linear Regression
 Objective: To build a foundational understanding of linear regression for predictive modeling, learn model training and evaluation, and interpret regression outputs.
